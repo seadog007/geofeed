@@ -1,6 +1,13 @@
-103.152.202.0/24,TW,TW-TPE,Taipei City,11491
-103.152.203.0/26,TW,TW-TPE,Taipei City,11491
-103.152.203.64/26,TW,TW-TPE,Taipei City,11491
-103.152.203.128/25,TW,TW-TPE,Taipei City,11491
-36.50.248.0/23,TW,TW-TPE,Taipei City,11491
-2401:5f20::/32,TW,TW-TPE,Taipei City,11491
+# Allocated to Ming Yi Tea Farm
+103.152.202.0/24,TW,TW-TPE,Taipei City,
+103.152.203.0/26,TW,TW-TPE,Taipei City,
+103.152.203.64/26,TW,TW-TPE,Taipei City,
+103.152.203.128/25,TW,TW-TPE,Taipei City,
+
+# Allocated to Shi Ji Industrial Co., Ltd.
+36.50.248.0/23,TW,TW-TPE,Taipei City,
+2401:5f20::/32,TW,TW-TPE,Taipei City,
+
+# Allocated to Chi-Chang Engineering Consultants Co., Ltd.
+160.25.104.0/23,TW,TW-TPE,Taipei City,
+2401:af20::/32,TW,TW-TPE,Taipei City,
