@@ -1,6 +1,6 @@
 # Allocated to Taiwan Digital Streaming Co.
 103.147.22.0/24,TW,TW-TPE,Taipei City,
-103.147.23.0/24,CN,CN-HK,Hong Kong,
+103.147.23.0/24,HK,,Hong Kong,
 2405:a640::/32,TW,TW-TPE,Taipei City,
 
 # Allocated to Nebula Hope limited
@@ -53,7 +53,7 @@
 2a0f:5707:ffa4::/48,KP,KP-01,Pyongyang,
 2a0f:5707:ffa5::/48,UM,UM-95,Palmyra Atoll,
 2a0f:5707:ffa6::/48,SY,SY-DI,Dimashq,
-2a0f:5707:ffa7::/48,MM,MM-18,Nay Pyi Taw,
+2a0f:5707:ffa7::/48,MM,,Nay Pyi Taw,
 2a0f:5707:fff2::/48,DE,DE-HE,Frankfurt am Main,
 
 # Allocated on ORG-STUI2-RIPE
