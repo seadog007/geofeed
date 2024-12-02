@@ -43,6 +43,10 @@
 210.79.155.0/24,TW,TW-TPE,Taipei City,
 2401:55e0::/32,TW,TW-TPE,Taipei City,
 
+# Allocated to SEADOG007-MNT
+2406:840:f337::/48,CN,,,
+2404:c140:2596::/48,HK,,Hong Kong,
+
 
 # Allocated on ORG-LHY1-RIPE
 2a0f:607:1051::/48,JP,JP-13,Tokyo,
@@ -55,6 +59,7 @@
 2a0f:5707:ffa6::/48,SY,SY-DI,Dimashq,
 2a0f:5707:ffa7::/48,MM,,Nay Pyi Taw,
 2a0f:5707:fff2::/48,DE,DE-HE,Frankfurt am Main,
+2a06:a005:500::/44,US,,,
 
 # Allocated on ORG-STUI2-RIPE
 2a0f:5707:ffe3::/48,TW,TW-TPE,Taipei City,
