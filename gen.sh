@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat *.csv > public/geofeed.csv
+cat *.csv | grep -v '^[[:space:]]*$' | grep -v '^#' > public/geofeed.csv
